@@ -1,0 +1,32 @@
+_repo: The-Allied-Countries-and-the-Jews_35695
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Enelow, H. G. (Hyman Gerson)
+    alias: Enelow, Hyman Gerson
+    birthdate: 1877
+    deathdate: 1934
+    gutenberg_agent_id: '37840'
+    url: http://www.gutenberg.org/2009/agents/37840
+description: Cover; Allied Countries and the Jews; Copyright; TEMPLE EMANU-EL New
+  York 1918; CONTENTS; PREFACE; I; II; III; IV; V; VI; VII.
+gutenberg_issued: '2011-03-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35695'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Jews'
+- !lcc 'D501'
+- !lcsh 'Jews'
+tableOfContents: Preface -- France and the Jews -- England and the Jews -- Russia
+  and the Jews -- Italy and the Jews -- Palestine and the Jews -- America and the
+  Jews -- The war, the Jew, and the future.
+title: The Allied Countries and the Jews
+url: http://www.gutenberg.org/ebooks/35695
